@@ -1,0 +1,49 @@
+.logcnt{
+    padding: 60px 200px;
+}
+.img-fluid {
+    width: 500px;
+    height: 100%;
+    border-right: 1px solid black;
+}
+.card-body{
+    padding: 100px 200px;
+}
+.taglog{
+    margin-left: -120px !important;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.form-control{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.googlelogin{
+    width: 196px !important;
+    height: -90px !important;
+    overflow: hidden !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    box-shadow: none !important;
+    background-color: #fff !important;
+    color: #000 !important;
+    margin-left: -5px !important;
+    margin-top:20px ;
+}
+.googlelogin:hover{
+    border: 1px solid gray !important;
+}
+.btn{
+    margin-left: -40px;
+    width: 140px;
+    height: 45px;
+}
+.cardlay .cardimg img{
+    width: 100%;
+    margin: 0px 90px;
+}
+
+.btncontainer{
+    display:flex;
+    flex-direction:column !important;
+}
